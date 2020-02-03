@@ -4,5 +4,3 @@
 require File.expand_path('../config/application', __FILE__)
 
 Rails.application.load_tasks
-
-module TempFixForRakeLastComment def last_comment last_description
